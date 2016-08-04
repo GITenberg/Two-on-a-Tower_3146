@@ -1,0 +1,37 @@
+_repo: Two-on-a-Tower_3146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "Two on a Tower (1882) is a novel by English author Thomas Hardy, classified\
+  \ by him as a romance and fantasy and now regarded as one of his minor works. The\
+  \ book is one of Hardy's Wessex novels, set in a parallel version of late Victorian\
+  \ Dorset.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3146'
+  wikidata: Q7859431
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomical observatories -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Two on a Tower
+url: http://www.gutenberg.org/ebooks/3146
+wikipedia:
+- https://en.wikipedia.org/wiki/Two_on_a_Tower
+- https://nl.wikipedia.org/wiki/Two_on_a_Tower
