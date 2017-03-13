@@ -1,5 +1,8 @@
 _repo: Two-on-a-Tower_3146
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -12,6 +15,8 @@ description: "Two on a Tower (1882) is a novel by English author Thomas Hardy, c
   \ by him as a romance and fantasy and now regarded as one of his minor works. The\
   \ book is one of Hardy's Wessex novels, set in a parallel version of late Victorian\
   \ Dorset.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3146#Two-on-a-Tower
 gutenberg_issued: '2002-03-01'
 gutenberg_type: Text
 identifiers:
